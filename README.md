@@ -16,3 +16,4 @@ MENTOR NAME : NEELA SANTHOSH
 My name is Sejal Gupta.I am pursuing b.tech from Siddartha Institute of Science and Technology,currently studying in 3rd year.I am enjoying this internship with codtech IT Solutions.
 
 # Description
+for Creating a real-time chat application using Socket.IO involves both a backend and a frontend. We will develop a simple live chat app with Node.js as the backend, and HTML/CSS/JavaScript for the frontend.
